@@ -36,7 +36,7 @@ O projeto **ft_printf** tem como objetivo criar uma função `printf` personaliz
 
 1. Clone o repositório:
     ```bash
-    git clone https://github.com/SFzone42/ft_printf.git
+    git clone https://github.com/lhabacuc/ft_printf.git
     cd ft_printf
     ```
 
@@ -113,7 +113,7 @@ Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICE
 
 ## 📞 Contato
 
-- **GitHub**: [SFzone42](https://github.com/SFzone42)
+- **GitHub**: [lhabacuc](https://github.com/lhabacuc)
 - **Email**: liedsonnhabacuc@example.com
 
 ---
